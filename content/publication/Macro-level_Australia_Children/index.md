@@ -42,7 +42,7 @@ tags = []
 
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1016/j.childyouth.2018.07.005"
+doi = "10.1016/j.childyouth.2018.07.005"
 
 # Links (optional).
 url_source = "https://www.sciencedirect.com/science/article/pii/S0190740918303657"
