@@ -42,7 +42,7 @@ tags = []
 
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1080/10242694.2018.1477235"
+doi = "10.1080/10242694.2018.1477235"
 
 # Links (optional).
 url_source = "https://www.tandfonline.com/doi/abs/10.1080/10242694.2018.1477235"
