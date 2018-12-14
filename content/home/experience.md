@@ -7,7 +7,7 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 8
+weight = 12
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,27 +19,46 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Chair"
+  company = "Young Statistical Network, Statistical Society of Australia (SSA)"
+  company_url = "https://www.statsoc.org.au/Young-Statisticians-Early-Career"
+  location = "Belconnen ACT 2616, Australia"
+  date_start = "2016-12-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Organizing Young Statisticians Conference 
+  * Liaising with young statisticians in all states
+  * Reporting to central council and executive committee 
+ 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Assistant"
+  company = "Swinburne University"
+  company_url = "http://www.swinburne.edu.au/health-arts-design/schools-departments/health-sciences/statistics-data-science-epidemiology"
+  location = "Melbourne, Australia"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = """Collaborating on multiple research projects on developing countries in South-east Asia and Africa"""
+  
 
+  
+[[experience]]
+  title = "Academic Tutor & Routine Marker"
+  company = "University of Southern Queensland"
+  company_url = "https://www.usq.edu.au/hes/school-of-agricultural-computation-and-environmental-sciences/about"
+  location = "Toowoomba, Queensland, Australia"
+  date_start = "2016-03-01"
+  date_end = "2016-12-01"
+  description = """
+   Responsibilities include:
+  
+   * Tutored two courses: Data Analysis ((STA 2300) and Problem Solving in Engineering and the Built Environment     (ENG1003)
+  * Marked assignments and semester final scripts
+
+  
+    """
+  
 +++
