@@ -42,7 +42,7 @@ tags = []
 
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1111/jep.13028"
+doi = "10.1111/jep.13028"
 
 # Links (optional).
 url_source = "https://onlinelibrary.wiley.com/doi/full/10.1111/jep.13028"
