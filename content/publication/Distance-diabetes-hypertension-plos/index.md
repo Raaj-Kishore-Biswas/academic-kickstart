@@ -42,7 +42,7 @@ tags = []
 
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1371/journal.pone.0177027"
+doi = "10.1371/journal.pone.0177027"
 
 # Links (optional).
 url_source = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177027"
