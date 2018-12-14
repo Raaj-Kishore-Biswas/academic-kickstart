@@ -23,7 +23,7 @@ publication_short = "In *Children and Youth Services Review*"
 
 # Abstract and optional shortened version.
 abstract = "The spatial impact of socioeconomic determinants on the macro-level early developmental vulnerability of children was analyzed in this paper using Local Government Areas (LGAs) as samples. Five domains of developmental outcomes: physical, social, emotional, language and cognitive, and communication have been addressed as ordinal outcomes, and fitted by the proportional odds model. Areas with a high percentage of low-income, welfare dependent and single parent families significantly increased the proportion of vulnerable children in all five domains. Other factors that significantly affect some aspects of developmental vulnerability in children are participation of women in the labor market, availability of home Internet and unemployment rate in the locality. The macro-level results match with previous micro-level assessments showing the relationship between household socioeconomic features and childhood vulnerability."
-abstract_short = "This paper analyzed an area-wise early developmental vulnerability of children in Austrlia. Areas with a high percentage of low-income, welfare dependent and single parent families significantly increased the proportion of vulnerable children."
+abstract_short = "Areas with a high percentage of low-income, welfare dependent and single parent families are vulnerable for children."
 
 # Is this a selected publication? (true/false)
 selected = true
