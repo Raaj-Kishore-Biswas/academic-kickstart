@@ -23,7 +23,7 @@ publication_short = "In *Defence and Peace Economics*"
 
 # Abstract and optional shortened version.
 abstract = "Both research and development (R&D) and military expenditure are pivotal areas for any country’s economy. However, most countries tend to spend more on military because of global insecurity and power politics. Nevertheless, this study shows the merit of R&D investment and how it contributes to the national human capital. An analysis was undertaken on the gap between R&D and military expenditure considering the Human Development Index (HDI) and Gross Domestic Product (GDP) of 76 countries for a period of 15 years (2000–2014). Mixed effect models were applied to adjust the effect of six different continents. The results showed that HDI has a positive bi-directional significant relationship with higher R&D investment. National spending on R&D builds human capital, which in turn contributes to public development over the years, unlike military expenditure that only marginally contributes towards GDP and makes no contribution to HDI."
-abstract_short = "This paper analyzed data of 76 countries and showed the advantage of spending more on human capital than military. National spending on R&D builds human capital, which in turn contributes to public development over the years, unlike military expenditure that only marginally contributes towards GDP and makes no contribution to HDI (Human Development Index)."
+abstract_short = "National spending on R&D increases HDI score but only military expenditure  marginally contributes to GDP but not to HDI."
 
 # Is this a selected publication? (true/false)
 selected = true
