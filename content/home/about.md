@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Biostatistics",
     "Driver Behavior",
-    "Haelth Care Sytem",
+    "Health Care Sytem",
     "Health Policy",
     "Big Data Analytics",
     "Spatial Statistics"
