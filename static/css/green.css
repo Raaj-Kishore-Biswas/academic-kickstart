@@ -56,3 +56,19 @@ a:hover {
 .btn-primary.btn-outline:active {
     background-color: rgb(64, 180, 255);
 }
+
+p {
+   font-family: "Lora"
+ }
+
+h1 {
+   font-family: "ZCOOL XiaoWei"
+ }
+
+h2 {
+   font-family: "ZCOOL XiaoWei"
+ }
+
+h3 {
+   font-family: "ZCOOL XiaoWei"
+ }
