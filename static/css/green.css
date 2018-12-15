@@ -76,6 +76,5 @@ h3 {
    color: rgb(0, 110, 255);
  }
 .home-section {
-    padding-left: 10px;
-    padding-right: 20px;
+    padding: 30px 0 10px 0;
   }
