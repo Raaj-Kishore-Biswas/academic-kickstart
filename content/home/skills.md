@@ -27,7 +27,7 @@ weight = 7
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
-  name = "Statisics (Proficient)"
+  name = "Statistics (Proficient)"
   description = ""
   
 [[feature]]
