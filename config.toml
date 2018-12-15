@@ -303,24 +303,29 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
+  name = "Skills"
+  url = "#Skills"
+  weight = 2
+  
+[[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Experience"
   url = "#experience"
-  weight = 3
+  weight = 4
   
 [[menu.main]]
   name = "Recent Blog Posts"
   url = "#post"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
