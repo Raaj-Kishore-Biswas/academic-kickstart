@@ -20,23 +20,48 @@ weight = 7
 # * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
+# proficient, intermediate, beginner
 
+
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Statisics (Proficient)"
+  description = ""
+  
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "R (Proficient)"
+  description = ""
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python (Intermediate)"
+  description = ""
+
+#<i class="fas fa-user-injured"></i>
+#<i class="fas fa-road"></i>
 [[feature]]
-  icon = "camera-retro"
+  icon = "user-injured"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Transport and Road Safety Research (Beginner)"
+  description = ""
+
+
+[[feature]]
+  icon = "heartbeat"
+  icon_pack = "fas"
+  name = "Publich Health Research (Intermediate)"
+  description = ""
+  
+
+[[feature]]
+  icon = "sitemap"
+  icon_pack = "fas"
+  name = "Big Data Analytics (Intermediate)"
+  description = ""
 
 +++
