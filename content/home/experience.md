@@ -55,7 +55,7 @@ date_format = "January 2006"
   description = """
    Responsibilities include:
   
-   * Tutored two courses: Data Analysis ((STA 2300) and Problem Solving in Engineering and the Built Environment     (ENG1003)
+   * Tutored two courses: Data Analysis (STA 2300) and Problem Solving in Engineering and the Built Environment     (ENG1003)
   * Marked assignments and semester final scripts
 
   
