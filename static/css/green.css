@@ -8,11 +8,11 @@
 a,
 a:visited,
 h3.article-title a:hover {
-    color: rgb(114, 153, 92);
+    color: rgb(64, 169, 255);
 }
 
 a:hover {
-    color: rgb(114, 153, 92);
+    color: rgb(64, 169, 255);
 }
 
 .navbar-default .navbar-nav li a:hover,
