@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Chair"
-  company = "Young Statistical Network, Statistical Society of Australia (SSA)"
+  company = "Young Statisticians Network, Statistical Society of Australia (SSA)"
   company_url = "https://www.statsoc.org.au/Young-Statisticians-Early-Career"
   location = "Belconnen ACT 2616, Australia"
   date_start = "2016-12-01"
