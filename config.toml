@@ -277,12 +277,12 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://www.linkedin.com/in/raaj-kishore-biswas/"
     
-    [[params.social]]
+   [[params.social]]
     icon = "researchgate"
     icon_pack = "fab"
     link = "https://www.researchgate.net/profile/Raaj_Biswas"
     
-    [params.social]]
+   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
     link = "/docs/Raaj Kishore Biswas_Academic CV.pdf"
