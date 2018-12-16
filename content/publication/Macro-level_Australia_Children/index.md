@@ -46,7 +46,7 @@ doi = "10.1016/j.childyouth.2018.07.005"
 
 # Links (optional).
 url_source = "https://www.sciencedirect.com/science/article/pii/S0190740918303657"
-url_pdf = ""
+url_pdf = "doc/A macro-level approach to assess the early developmental vulnerabilities.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
