@@ -304,7 +304,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Skills"
-  url = "#Skills"
+  url = "#skills"
   weight = 2
   
 [[menu.main]]
@@ -319,7 +319,7 @@ enableGitInfo = false
   
 [[menu.main]]
   name = "Recent Blog Posts"
-  url = "#post"
+  url = "#posts"
   weight = 5
 
 [[menu.main]]
