@@ -46,7 +46,7 @@ doi = "10.1371/journal.pone.0177027"
 
 # Links (optional).
 url_source = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177027"
-url_pdf = ""
+url_pdf = "doc/Influenceofdistancebetweenresidenceandhealthfacilitiesonnon-communicablediseases -- AnassessmentoverhypertensionanddiabetesinBangladesh.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
