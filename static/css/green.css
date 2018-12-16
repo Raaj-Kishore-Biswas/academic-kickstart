@@ -8,17 +8,17 @@
 a,
 a:visited,
 h3.article-title a:hover {
-    color: rgb(53, 136, 130);
+    color: rgb(56, 147, 255);
 }
 
 a:hover {
-    color: rgb(53, 136, 130);
+    color: rgb(56, 147, 255);
 }
 
 .navbar-default .navbar-nav li a:hover,
 .btn-primary,
 .btn-primary.btn-outline {
-    color: rgb(53, 136, 130);
+    color: rgb(56, 147, 255);
 }
 
 /* Articles */
@@ -32,20 +32,20 @@ a:hover {
 }
 
 .article-metadata a:hover {
-    color: rgb(53, 136, 130);
+    color: rgb(56, 147, 255);
 }
 
 /* Standard buttons */
 
 .btn-primary,
 .btn-primary.btn-outline {
-    border-color: rgb(53, 136, 130);
+    border-color: rgb(56, 147, 255);
 }
 
 /* Hover buttons */
 
 .btn-primary.btn-outline:hover {
-    border-color: rgb(53, 136, 130);
+    border-color: rgb(56, 147, 255);
 }
 
 .btn-primary:hover,
@@ -54,7 +54,7 @@ a:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .btn-primary.btn-outline:active {
-    background-color: rgb(53, 136, 130);
+    background-color: rgb(56, 147, 255);
 }
 
 p {
