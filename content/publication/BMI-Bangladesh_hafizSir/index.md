@@ -46,7 +46,7 @@ doi = "10.1111/jep.13028"
 
 # Links (optional).
 url_source = "https://onlinelibrary.wiley.com/doi/full/10.1111/jep.13028"
-url_pdf = ""
+url_pdf = "doc/Socioeconomic transition and its influence on body mass index.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
