@@ -46,7 +46,7 @@ doi = "10.1080/10242694.2018.1477235"
 
 # Links (optional).
 url_source = "https://www.tandfonline.com/doi/abs/10.1080/10242694.2018.1477235"
-url_pdf = ""
+url_pdf = "doc/A macro-level approach to assess the early developmental vulnerabilities.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
