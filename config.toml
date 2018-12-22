@@ -64,7 +64,7 @@ enableGitInfo = false
   avatar = "Raaj-Kishore-Biswas.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "RaajKishore.Biswas@unsw.edu.au"
+  email = "RaajKishore.Biswas@student.unsw.edu.au"
   address = "Old Main Building, UNSW Sydney, NSW 2052, Australia."
   office_hours = ""
   phone = "+61 (2) 9385 5414"
@@ -260,7 +260,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:RaajKishore.Biswas@unsw.edu.au"  # For a direct email link, use "mailto:RaajKishore.Biswas@unsw.edu.au".
+    link = "mailto:RaajKishore.Biswas@student.unsw.edu.au"  # For a direct email link, use "mailto:RaajKishore.Biswas@student.unsw.edu.au".
 
   [[params.social]]
     icon = "twitter"
