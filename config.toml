@@ -285,7 +285,7 @@ enableGitInfo = false
    [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "doc/Raaj Kishore Biswas-Academic CV.pdf"
+    link = "doc/Raaj Kishore Biswas_CV_website.pdf"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
