@@ -79,7 +79,7 @@ Renima, A., Tiliouine, H., Estes, R. J., 2016. The islamic golden age: A story o
 
 Spier, F., 2015. Big history and the future of humanity. John Wiley & Sons.
 
-
+***December, 2018***
 
 *Published in the 27th edition of Dwairath, the official yearly magazine of Notre Dame Debating Club*
 
