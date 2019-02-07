@@ -41,7 +41,7 @@ tags = []
 
 
 # Digital Object Identifier (DOI)
-doi = "10.1111/jep.13028"
+doi = "10.1016/j.envdev.2018.12.007"
 
 # Links (optional).
 url_source = "https://www.sciencedirect.com/science/article/pii/S2211464517302671"
