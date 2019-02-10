@@ -45,7 +45,7 @@ doi = "10.1016/j.childyouth.2018.08.001"
 
 # Links (optional).
 url_source = "https://www.sciencedirect.com/science/article/pii/S0190740918301865"
-url_pdf = "doc/Mental health service use in Australia --- The role of family structure andsocio-economic status"
+url_pdf = "doc/Mental health service use in Australia"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
