@@ -64,8 +64,8 @@ enableGitInfo = false
   avatar = "Raaj-Kishore-Biswas.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "RaajKishore.Biswas@student.unsw.edu.au"
-  address = "Old Main Building, UNSW Sydney, NSW 2052, Australia."
+  email = "RaajKishore.Biswas@student.unsw.edu.au; raaj.biswas@gmail.com"
+  address = "Level 2, School of Aviation, Old Main Building, UNSW Sydney, NSW 2052, Australia."
   office_hours = ""
   phone = "+61 (2) 9385 5414"
   skype = ""
