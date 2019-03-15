@@ -20,7 +20,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Road Safety"
+  course = "PhD in Road Safety and Transport Analytics"
   institution = "University of New South Wales"
   year = 2022
 
