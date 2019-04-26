@@ -323,7 +323,7 @@ enableGitInfo = false
   weight = 4
   
 [[menu.main]]
-  name = "Recent Blog Posts"
+  name = "Media/Blog Posts"
   url = "#posts"
   weight = 5
 
