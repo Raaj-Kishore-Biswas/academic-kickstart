@@ -56,3 +56,6 @@ https://sciencetrends.com/synthetic-salinity-model-an-alternative-to-expensive-a
 
 These findings are described in the article entitled <a href="https://www.sciencedirect.com/science/article/pii/S2211464517302671"> Modeling soil salinity using direct and indirect measurement techniques: A comparative analysis</a>, published in *Environmental Development*. This work was conducted by <a href="https://scholar.google.com.au/citations?user=eKcT5z8AAAAJ&hl=en"> Abu Yousuf Md Abdullah</a> from University of Waterloo, <a href="https://raajbiswas.com/"> Raaj Kishore Biswas </a> from the <a href="https://www.aviation.unsw.edu.au/about/researchers/mr-raaj-kishore-biswas"> University of New South Wales</a>,  Atique Iqbal Chowdhury and SK Masum Billah from the International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b). 
 
+***April 26, 2019***
+
+*Published in the <a href="https://sciencetrends.com"> Science Trends, a platform to give scientists a voice</a>.*
