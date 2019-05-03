@@ -38,8 +38,8 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Public Health", "Bangladesh", "Hypertension", "Diabetes", "DHS"]
-
+tags = []
+# "Public Health", "Bangladesh", "Hypertension", "Diabetes", "DHS"
 
 # Digital Object Identifier (DOI)
 doi = "10.1371/journal.pone.0177027"
