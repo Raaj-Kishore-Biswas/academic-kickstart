@@ -45,7 +45,7 @@ doi = "10.1017/S1368980018003907"
 
 # Links (optional).
 url_source = "https://doi.org/10.1017/S1368980018003907"
-url_pdf = "doc/Factors associated with the availability of iodized salt"
+url_pdf = "doc/Factors associated with the availability of iodized salt.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
