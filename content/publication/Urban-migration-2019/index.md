@@ -1,5 +1,5 @@
 +++
-title = "Socioeconomic transition and its influence on body mass index (BMI) pattern in Bangladesh"
+title = "Causes of Urban Migration in Bangladesh: Evidence from the Urban Health Survey"
 date = 2018-09-04T00:00:00
 draft = false
 
