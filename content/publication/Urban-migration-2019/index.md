@@ -1,6 +1,6 @@
 +++
 title = "Causes of Urban Migration in Bangladesh: Evidence from the Urban Health Survey"
-date = 2018-09-04T00:00:00
+date = 2019-05-04T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
