@@ -41,7 +41,7 @@ date_format = "January 2006"
   location = "Melbourne, Australia"
   date_start = "2018-10-01"
   date_end = ""
-  description = """Collaborating on multiple research projects on developing countries in South-east Asia and Africa"""
+  description = """Collaborating on multiple research projects on developing countries in Southeast Asia and Africa"""
   
 
   
