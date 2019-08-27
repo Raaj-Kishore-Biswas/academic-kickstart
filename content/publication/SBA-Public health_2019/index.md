@@ -41,7 +41,7 @@ tags = ["Public Health", "Bangladesh", "Women"]
 
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1016/j.puhe.2019.02.027"
+doi = "10.1016/j.puhe.2019.02.027"
 
 # Links (optional).
 url_source = "https://doi.org/10.1016/j.puhe.2019.02.027"
