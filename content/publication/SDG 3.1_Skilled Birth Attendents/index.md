@@ -46,7 +46,7 @@ doi = "10.1371/journal.pone.0231489"
 
 # Links (optional).
 url_source = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231489"
-url_pdf = "doc/Anassessment of SDG 3.1 in the South and Southeast Asian Region"
+url_pdf = "doc/Anassessment of SDG 3.1 in the South and Southeast Asian Region.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
