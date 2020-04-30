@@ -1,6 +1,6 @@
 +++
 title = "An assessment of anemia status of child-mother pairs in Bangladesh"
-date = 2020-04-04T00:00:00
+date = 2020-02-04T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "D,avid Jones"]`.
