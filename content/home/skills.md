@@ -47,7 +47,7 @@ weight = 7
 [[feature]]
   icon = "user-injured"
   icon_pack = "fas"
-  name = "Transport and Road Safety Research (Beginner)"
+  name = "Transport and Road Safety Research (Intermediate)"
   description = ""
 
 
