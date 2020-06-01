@@ -54,7 +54,7 @@ weight = 7
 [[feature]]
   icon = "heartbeat"
   icon_pack = "fas"
-  name = "Public Health Research (Intermediate)"
+  name = "Public Health Research (Proficient)"
   description = ""
   
 
