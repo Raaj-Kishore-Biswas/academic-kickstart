@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-  """
+ 
   
 [[experience]]
   title = "Chair"
@@ -34,7 +34,7 @@ date_format = "January 2006"
   * Organizing Young Statisticians Conference 
   * Liaising with young statisticians in all states
   * Reporting to central council and executive committee 
- 
+  """
 
 
 [[experience]]
