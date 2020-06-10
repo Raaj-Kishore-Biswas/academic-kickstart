@@ -22,17 +22,6 @@ date_format = "January 2006"
   """
   
 [[experience]]
-  title = "Research Assistant"
-  company = "Swinburne University of Technology"
-  company_url = "http://www.swinburne.edu.au/health-arts-design/schools-departments/health-sciences/statistics-data-science-epidemiology"
-  location = "Melbourne, Australia"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = """Collaborating on multiple research projects on developing countries in Southeast Asia and Africa"""
-  
-
-
-[[experience]]
   title = "Chair"
   company = "Young Statisticians Network, Statistical Society of Australia (SSA)"
   company_url = "https://www.statsoc.org.au/Young-Statisticians-Early-Career"
