@@ -52,5 +52,5 @@ Full post:
 http://www.jogh.org/documents/issue202001/jogh-10-010342.htm
 
 
-While pandemics hardly give opportunities to many countries to prepare, developed nations will have the data to at least trace their progress and assess their position on the curve. Unfortunately, the curve for Bangladesh seems flat with only one case detected in a period of 72 hours (the 28th to the 30th March). This could be because either Bangladesh is extremely lucky, or this scarcity of databased on appropriate testing now obscures an ominous death toll that is to follow.. 
+While pandemics hardly give opportunities to many countries to prepare, developed nations will have the data to at least trace their progress and assess their position on the curve. Unfortunately, the curve for Bangladesh seems flat with only one case detected in a period of 72 hours (the 28th to the 30th March). This could be because either Bangladesh is extremely lucky, or this scarcity of databased on appropriate testing now obscures an ominous death toll that is to follow. 
 
