@@ -19,7 +19,15 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
- 
+ [[experience]]
+  title = "Research Officer - Biostatistician"
+  company = "Matilda Centre for Research in Mental Health and Substance Use, University of Sydney"
+  company_url = "https://www.sydney.edu.au/matilda-centre/about/our-people.html"
+  location = "Sydney, Australia"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """Analyzing RCTs for the Inroads program, a therapist-supported, cognitive behavioural therapy (CBT)-based, internet-delivered early intervention for young adults"""
+
   
 [[experience]]
   title = "Chair"
