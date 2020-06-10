@@ -23,8 +23,7 @@ date_format = "January 2006"
   
 [[experience]]
   title = "Research Officer - Biostatistician"
-  company = "Matilda Centre for Research in Mental Health and Substance Use,
-University of Sydney"
+  company = "Matilda Centre, University of Sydney"
   company_url = "https://www.sydney.edu.au/matilda-centre/about/our-people.html"
   location = "Sydney, Australia"
   date_start = "2019-10-01"
