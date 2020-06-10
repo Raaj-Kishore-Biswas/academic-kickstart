@@ -22,13 +22,13 @@ date_format = "January 2006"
   """
   
 [[experience]]
-  title = "Research Officer - Biostatistician"
-  company = "Matilda Centre, University of Sydney"
-  company_url = "https://www.sydney.edu.au/matilda-centre/about/our-people.html"
-  location = "Sydney, Australia"
-  date_start = "2019-10-01"
+  title = "Research Assistant"
+  company = "Swinburne University of Technology"
+  company_url = "http://www.swinburne.edu.au/health-arts-design/schools-departments/health-sciences/statistics-data-science-epidemiology"
+  location = "Melbourne, Australia"
+  date_start = "2018-10-01"
   date_end = ""
-  description = """Analyzing RCTs for the Inroads program, a therapist-supported, cognitive behavioural therapy (CBT)-based, internet-delivered early intervention for young adults"""
+  description = """Collaborating on multiple research projects on developing countries in Southeast Asia and Africa"""
   
 
 
