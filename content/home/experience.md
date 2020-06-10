@@ -19,7 +19,8 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
+  """
+  
 [[experience]]
   title = "Research Officer - Biostatistician"
   company = "Matilda Centre for Research in Mental Health and Substance Use,
@@ -46,7 +47,7 @@ University of Sydney"
   * Liaising with young statisticians in all states
   * Reporting to central council and executive committee 
  
-  """
+
 
 [[experience]]
   title = "Research Assistant"
