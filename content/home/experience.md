@@ -35,7 +35,7 @@ date_format = "January 2006"
   company_url = "https://www.statsoc.org.au/Young-Statisticians-Early-Career"
   location = "Belconnen ACT 2616, Australia"
   date_start = "2016-12-01"
-  date_end = "2016-03-01"
+  date_end = "2020-03-01"
   description = """
   Responsibilities include:
   
