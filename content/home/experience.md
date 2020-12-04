@@ -46,7 +46,7 @@ date_format = "January 2006"
 
 
 [[experience]]
-  title = "Research Assistant"
+  title = "Research Assistant and Sessional Lecturer"
   company = "Swinburne University of Technology"
   company_url = "http://www.swinburne.edu.au/health-arts-design/schools-departments/health-sciences/statistics-data-science-epidemiology"
   location = "Melbourne, Australia"
