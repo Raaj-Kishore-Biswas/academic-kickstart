@@ -25,7 +25,7 @@ date_format = "January 2006"
   company_url = "https://www.sydney.edu.au/matilda-centre/about/our-people.html"
   location = "Sydney, Australia"
   date_start = "2019-10-01"
-  date_end = ""
+  date_end = "2020-10-01"
   description = """Analyzing RCTs for the Inroads program, a therapist-supported, cognitive behavioural therapy (CBT)-based, internet-delivered early intervention for young adults"""
 
   
