@@ -52,7 +52,14 @@ date_format = "January 2006"
   location = "Melbourne, Australia"
   date_start = "2018-10-01"
   date_end = ""
-  description = """Collaborating on multiple research projects on developing countries in Southeast Asia and Africa"""
+  description = """
+  Responsibilities include:
+  
+  * Collaborating on public health projects on Southeast Asia and Africa
+  * Statistical consultation for projects on Dementia
+  * Supervising Masters project (Graduated student = 2)
+  * Lectured on Forecasting (STA70004) - Semester 3, 2020
+  """
   
 
   
@@ -66,7 +73,7 @@ date_format = "January 2006"
   description = """
    Responsibilities include:
   
-   * Tutored two courses: Data Analysis (STA 2300) and Problem Solving in Engineering and the Built Environment     (ENG1003)
+  * Tutored two courses: Data Analysis (STA 2300) and Problem Solving in Engineering and the Built Environment     (ENG1003)
   * Marked assignments and semester final scripts
 
   
