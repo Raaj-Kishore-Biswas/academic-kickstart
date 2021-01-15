@@ -47,11 +47,7 @@ summary = "Study on Australian adolescents revealed that screen time could impac
 
 
 +++
-Full post:
-
-https://7news.com.au/sunrise/on-the-show/new-study-reveals-how-screen-time-can-impact-your-childs-school-performance-c-1938904
-
-
+The full report is available in <a href="https://7news.com.au/sunrise/on-the-show/new-study-reveals-how-screen-time-can-impact-your-childs-school-performance-c-1938904"> 7news by Hamish Goodall</a>.
 
 These findings are described in the article entitled <a href="https://www.nature.com/articles/s41598-020-78916-9"> Effect of internet use and electronic game-play on academic performance of Australian children</a>, published in *Scientific Reports*. This work was conducted by Md Irteja Islam and Rasheda Khanam </a> from University of Southern Queensland, <a href="https://raajbiswas.com/"> Raaj Kishore Biswas </a> from the <a href="https://www.aviation.unsw.edu.au/about/researchers/mr-raaj-kishore-biswas"> University of New South Wales</a>, Sydney. 
 
