@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Raaj Kishore Biswas"]`.
 authors = ["Raaj Kishore Biswas, Abu Yousuf Md Abdullah"]
 
-tags = ["Academic"]
+tags = ["Media", "Blogs"]
 summary = "A new statistical technique was developed that measures salinity level in coastal areas using Geographic Information System (GIS). This would allow monitoring of the salinity levels in Sundarbans (and such coastal areas) without resorting to conventional soil sample surveys, which are generally too resource-intensive."
 
 # Projects (optional).
@@ -47,9 +47,9 @@ summary = "A new statistical technique was developed that measures salinity leve
 
 
 +++
-Full post:
+Full report is available at <a href="https://sciencetrends.com/synthetic-salinity-model-an-alternative-to-expensive-and-time-consuming-ground-based-soil-salinity-measurements"> Science Trends</a>
 
-https://sciencetrends.com/synthetic-salinity-model-an-alternative-to-expensive-and-time-consuming-ground-based-soil-salinity-measurements
+
 
     
       
