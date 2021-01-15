@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Raaj Kishore Biswas"]`.
 authors = ["Md Irteja Islam, Raaj Kishore Biswas, Rasheda Khanam"]
 
-tags = ["Academic"]
+tags = ["Media", "Newspaper"]
 summary = "A study to understand the ideal number of hours Australian adolescents spent playing video games or surfing the internet."
 
 # Projects (optional).
@@ -24,7 +24,7 @@ summary = "A study to understand the ideal number of hours Australian adolescent
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Mélanie THESE**](https://unsplash.com/photos/hP8B_KYRoFE)"
+  caption = "Image credit: [**MÃ©lanie THESE**](https://unsplash.com/photos/hP8B_KYRoFE)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
