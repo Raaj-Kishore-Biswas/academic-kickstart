@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Selected Publications"
-subtitle = "<a href='/publication/'>See all publications</a>"
+subtitle = "<a href='/All-publications/'>See all publications</a>"
 
 Count = 5
 
