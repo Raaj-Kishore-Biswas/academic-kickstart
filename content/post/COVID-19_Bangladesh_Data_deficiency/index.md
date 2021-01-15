@@ -7,7 +7,7 @@ lastmod = 2020-04-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Raaj Kishore Biswas"]`.
-authors = ["Samin Huq", "Raaj Kishore Biswas"]
+authors = ["Samin Huq, Raaj Kishore Biswas"]
 
 tags = ["Academic"]
 summary = "In Bangladesh, the decisions of cluster-wise lockdown or social distancing, or even preparing the health system to respond to the pandemic were made without the availability of adequate data."
