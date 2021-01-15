@@ -1,5 +1,5 @@
 +++
-title = "Synthetic Salinity Model: An Alternative To Expensive And Time-Consuming, Ground-Based Soil Salinity Measurements"
+title = "Science Trends: Synthetic Salinity Model- An Alternative To Expensive And Time-Consuming, Ground-Based Soil Salinity Measurements"
 #subtitle = "Create a beautifully simple website in under 10 minutes :rocket:"
 
 date = 2017-12-20T00:00:00
@@ -48,11 +48,6 @@ summary = "A new statistical technique was developed that measures salinity leve
 
 +++
 Full report is available at <a href="https://sciencetrends.com/synthetic-salinity-model-an-alternative-to-expensive-and-time-consuming-ground-based-soil-salinity-measurements"> Science Trends</a>
-
-
-
-    
-      
 
 These findings are described in the article entitled <a href="https://www.sciencedirect.com/science/article/pii/S2211464517302671"> Modeling soil salinity using direct and indirect measurement techniques: A comparative analysis</a>, published in *Environmental Development*. This work was conducted by <a href="https://scholar.google.com.au/citations?user=eKcT5z8AAAAJ&hl=en"> Abu Yousuf Md Abdullah</a> from University of Waterloo, <a href="https://raajbiswas.com/"> Raaj Kishore Biswas </a> from the <a href="https://www.aviation.unsw.edu.au/about/researchers/mr-raaj-kishore-biswas"> University of New South Wales</a>,  Atique Iqbal Chowdhury and SK Masum Billah from the International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b). 
 
