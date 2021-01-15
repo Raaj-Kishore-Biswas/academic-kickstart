@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Raaj Kishore Biswas"]`.
 authors = ["Md Irteja Islam, Raaj Kishore Biswas, Rasheda Khanam"]
 
-tags = ["Academic"]
+tags = ["Media", "TV report"]
 summary = "Study on Australian adolescents revealed that screen time could impacts their school performance."
 
 # Projects (optional).
