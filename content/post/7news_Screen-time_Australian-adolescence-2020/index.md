@@ -10,7 +10,7 @@ draft = false
 authors = ["Md Irteja Islam, Raaj Kishore Biswas, Rasheda Khanam"]
 
 tags = ["Academic"]
-summary = "Study on Australian adolescence revealed that screen time could impacts their school performance."
+summary = "Study on Australian adolescents revealed that screen time could impacts their school performance."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -24,7 +24,7 @@ summary = "Study on Australian adolescence revealed that screen time could impac
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Joël Dronkert**](https://unsplash.com/photos/K5L3Og0UgOA)"
+  caption = "Image credit: [**Joel Dronkert**](https://unsplash.com/photos/K5L3Og0UgOA)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
