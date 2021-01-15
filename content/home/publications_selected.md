@@ -20,6 +20,9 @@ weight = 10
 #   4 = Stream
 list_format = 4
 
+# Number of posts to list.
+count = 7
+
 # Filter by publication type.
 # -1: Any
 #  0: Uncategorized
