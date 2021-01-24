@@ -47,7 +47,7 @@ summary = "The latest findings from the Global Burden of Disease Study (GBD) wer
 
 
 +++
-The full report is available in <a href="https://newsroom.unsw.edu.au/news/health/chronic-diseases-and-public-health-failures-fuelling-covid-19-pandemic-study"> 7news by  UNSW MEDIA and THE LANCET MEDIA </a>.
+The full report is available in <a href="https://newsroom.unsw.edu.au/news/health/chronic-diseases-and-public-health-failures-fuelling-covid-19-pandemic-study"> at UNSW Newsroom by  UNSW MEDIA and THE LANCET MEDIA </a>.
 
 These findings are described in <a href="https://www.thelancet.com/journals/lancet/issue/vol396no10258/PIIS0140-6736(20)X0042-0"> the Lancet issue (Oct 17, 2020) Volume 396 Number 10258 p1129-1306</a>. This study, overall, catches the magnitude of diseases and injuries worldwide that complements national estimates, policies and most importantly, will evaluate how global funds should be distributed. 
 
