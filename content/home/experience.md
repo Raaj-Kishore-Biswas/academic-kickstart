@@ -19,6 +19,30 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+ 
+  [[experience]]
+  title = "Senior Data Analyst"
+  company = "Epidemiology and Surveillance, Public Health Response Branch at NSW Health"
+  company_url = "https://www.health.nsw.gov.au/about/ministry/Pages/default.aspx"
+  location = "Sydney, Australia"
+  date_start = "2022-03-01"
+  date_end = ""
+  description = """Performing analysis and reporting on COVID-19 data for NSW Government"""
+
+
+ 
+  [[experience]]
+  title = "Research Biostatistician"
+  company = "Clinical Research Centre, Sydney Local Health District at NSW Health"
+  company_url = "https://www.slhd.nsw.gov.au/research/department_details.html?research=crc"
+  location = "Sydney, Australia"
+  date_start = "2021-03-01"
+  date_end = ""
+  description = """Providing statistical consults for multifaceted research projects including clinical trials at Sydney Local Health District"""
+
+
+ 
  [[experience]]
   title = "Research Officer - Biostatistician"
   company = "Matilda Centre for Research in Mental Health and Substance Use, University of Sydney"
@@ -32,7 +56,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Chair"
   company = "Young Statisticians Network, Statistical Society of Australia (SSA)"
-  company_url = "https://www.statsoc.org.au/Young-Statisticians-Early-Career"
+  company_url = "https://www.statsoc.org.au/Early-career-student-statisticians-network"
   location = "Belconnen ACT 2616, Australia"
   date_start = "2016-12-01"
   date_end = "2020-03-01"
