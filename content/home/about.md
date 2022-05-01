@@ -38,9 +38,11 @@ weight = 5
 
 # Biography
 
-Raaj Kishore Biswas is an R enthusiast  PhD scholar at the <a href="http://www.tars.unsw.edu.au"> Transport and Road Safety (TARS) Research Centre </a> in <a href="https://www.aviation.unsw.edu.au/about/researchers/mr-raaj-kishore-biswas"> University of New South Wales, Sydney</a>. He is working with <a href="http://www.tars.unsw.edu.au/staffdirectory/professor_ann_williamson.html"> Professor Ann Williamson</a>, <a href="https://research.unsw.edu.au/people/associate-professor-jake-olivier"> Professor Jake Olivier</a>, and <a href="https://staff.qut.edu.au/staff/teresa.senserrick"> Professor Teresa Senserrick</a> on the <a href="http://www.ands.unsw.edu.au/"> Australian Naturalistic Driving Study (ANDS)</a>. His research focuses on the risk associated with everyday driving in Australia and big data analytics in road safety. He is currently investigating the methodological discrepancies in the naturalistic driving data.
+Raaj Kishore Biswas is an R enthusiast. He is currently working as a research biostatistician and senior data analysis at NSW Health. His primary work focuses on dealing with complex statistical modelling, analysis and regular reporting of COVID-19 data for NSW. His PhD, which is currently under review, focused on the driver behaviour and risk associated with everyday driving in Australia using the <a href="http://www.ands.unsw.edu.au/"> Australian Naturalistic Driving Study (ANDS)</a>. He is also a sessional lecturer at Swinburne, where he supervises Masters students.
 
-He regularly collaborates with colleagues from different universities to work on biostatistics and public health projects, particularly focusing on the health care system and service accessibilities in developing countries. Environmental statistics, behavioral analysis and spatial techniques are also part of his area of interest.   
+
+He regularly collaborates with colleagues from different universities to work on biostatistics and public health projects, particularly focusing on the health care system and service accessibilities in developing countries. Environmental statistics, behavioral analysis and spatial techniques are also part of his area of interest.
+   
 
 
 
