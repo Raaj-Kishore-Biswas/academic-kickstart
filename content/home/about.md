@@ -38,7 +38,7 @@ weight = 5
 
 # Biography
 
-Raaj Kishore Biswas is a biostatistician and an _R_ enthusiast. He is currently working as a research biostatistician and senior data analyst at NSW Health. His primary work focuses on dealing with chealth data modelling, analysis of randomized trials and regular reporting of COVID-19 data for NSW. His PhD assessed the driver behaviour and risk associated with everyday driving in Australia using the <a href="http://www.ands.unsw.edu.au/"> Australian Naturalistic Driving Study (ANDS)</a>. He is also a sessional lecturer at Swinburne, where he supervises postgraduate students.
+Raaj Kishore Biswas is a biostatistician and an _R_ enthusiast. He is currently working as a research biostatistician and senior data analyst at NSW Health. His primary work focuses on dealing with health data modelling, analysis of randomized trials and regular reporting of COVID-19 data for NSW. His PhD assessed the driver behaviour and risk associated with everyday driving in Australia using the <a href="http://www.ands.unsw.edu.au/"> Australian Naturalistic Driving Study (ANDS)</a>. He is also a sessional lecturer at Swinburne, where he supervises postgraduate students.
 
 
 He regularly collaborates with colleagues across globe to work on biostatistics and public health projects, particularly focusing on the health care system and service accessibilities in developing countries. Environmental statistics, behavioral analysis and spatial techniques are also part of his area of interest.
