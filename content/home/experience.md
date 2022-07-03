@@ -21,16 +21,6 @@ date_format = "January 2006"
 
 
  
-  [[experience]]
-  title = "Senior Data Analyst"
-  company = "Epidemiology and Surveillance, Public Health Response Branch at NSW Health"
-  company_url = "https://www.health.nsw.gov.au/about/ministry/Pages/default.aspx"
-  location = "Sydney, Australia"
-  date_start = "2022-03-01"
-  date_end = "2022-06-30"
-  description = """Performing analysis and reporting on COVID-19 data for NSW Government"""
-
-
  
   [[experience]]
   title = "Research Biostatistician"
@@ -40,6 +30,16 @@ date_format = "January 2006"
   date_start = "2021-03-01"
   date_end = ""
   description = """Providing statistical consults for multifaceted research projects including clinical trials at Sydney Local Health District"""
+  
+  
+  [[experience]]
+  title = "Senior Data Analyst"
+  company = "Epidemiology and Surveillance, Public Health Response Branch at NSW Health"
+  company_url = "https://www.health.nsw.gov.au/about/ministry/Pages/default.aspx"
+  location = "Sydney, Australia"
+  date_start = "2022-03-01"
+  date_end = "2022-06-30"
+  description = """Performing analysis and reporting on COVID-19 data for NSW Government"""
 
 
  
@@ -52,6 +52,25 @@ date_format = "January 2006"
   date_end = "2020-10-01"
   description = """Analyzing RCTs for the Inroads program, a therapist-supported, cognitive behavioural therapy (CBT)-based, internet-delivered early intervention for young adults"""
 
+
+
+[[experience]]
+  title = "Research Assistant and Sessional Lecturer"
+  company = "Swinburne University of Technology"
+  company_url = "http://www.swinburne.edu.au/health-arts-design/schools-departments/health-sciences/statistics-data-science-epidemiology"
+  location = "Melbourne, Australia"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Supervising postgraduate students (Graduated student = 4)
+  * Collaborating on public health projects on Southeast Asia and Africa
+  * Statistical consultation for projects on Dementia
+  * Lectured on Forecasting (STA70004) - Semester 3, 2020
+  """
+  
+  
   
 [[experience]]
   title = "Chair"
@@ -68,23 +87,6 @@ date_format = "January 2006"
   * Reporting to central council and executive committee 
   """
 
-
-[[experience]]
-  title = "Research Assistant and Sessional Lecturer"
-  company = "Swinburne University of Technology"
-  company_url = "http://www.swinburne.edu.au/health-arts-design/schools-departments/health-sciences/statistics-data-science-epidemiology"
-  location = "Melbourne, Australia"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Collaborating on public health projects on Southeast Asia and Africa
-  * Statistical consultation for projects on Dementia
-  * Supervising Masters project (Graduated student = 2)
-  * Lectured on Forecasting (STA70004) - Semester 3, 2020
-  """
-  
 
   
 [[experience]]
