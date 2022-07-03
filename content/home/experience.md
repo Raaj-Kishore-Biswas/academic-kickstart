@@ -27,7 +27,7 @@ date_format = "January 2006"
   company_url = "https://www.health.nsw.gov.au/about/ministry/Pages/default.aspx"
   location = "Sydney, Australia"
   date_start = "2022-03-01"
-  date_end = ""
+  date_end = "2022-06-30"
   description = """Performing analysis and reporting on COVID-19 data for NSW Government"""
 
 
