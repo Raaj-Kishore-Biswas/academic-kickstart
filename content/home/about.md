@@ -15,7 +15,7 @@ weight = 5
     "Health Care System",
     "Health Policy",
     "Machine Learning",
-    "Spatial Statistics"
+    "Cohort studies"
   ]
 
 # List your qualifications (such as academic degrees).
