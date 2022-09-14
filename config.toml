@@ -53,19 +53,19 @@ enableGitInfo = false
 
   # Your details.
   name = "Raaj Kishore Biswas"
-  role = "Research Biostatistician"
+  role = "Biostatistician"
   
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Clinical Research Centre (CRC)", url = "https://www.slhd.nsw.gov.au/research/department_details.html?research=crc" } , 
-                    {name="NSW Health", url="https://www.health.nsw.gov.au/"}]
+  organizations = [ { name = "Charles Perkins Centre", url = "https://www.sydney.edu.au/charles-perkins-centre/" } , 
+                    {name="University of Sydney", url="https://www.sydney.edu.au/"}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Raaj-Kishore-Biswas.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "RaajKishore.Biswas@student.unsw.edu.au; raaj.biswas@gmail.com"
-  address = "Level 6, Gloucester House, Royal Prince Alfred Hospital, Camperdown NSW 2050, Australia."
+  address = "Charles Perkins Centre level 6, Desk 6W86 | The University of Sydney | NSW | 2006"
   office_hours = ""
   phone = "+61 426 784 344 "
   skype = ""
