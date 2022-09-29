@@ -289,7 +289,7 @@ enableGitInfo = false
     
     [[params.social]]
     icon = "w"
-    icon_pack = "fab"
+    icon_pack = "fas"
     link = "https://www.webofscience.com/wos/author/record/K-4256-2018"
     
   # Link to a PDF of your resume/CV from the About widget.
