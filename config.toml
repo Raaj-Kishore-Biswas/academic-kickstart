@@ -288,8 +288,8 @@ enableGitInfo = false
     link = "doc/Raaj Kishore Biswas_Academic CV_website.pdf"
     
     [[params.social]]
-    icon = "w"
-    icon_pack = "fas"
+    icon = "orcid"
+    icon_pack = "ai"
     link = "https://www.webofscience.com/wos/author/record/K-4256-2018"
     
   # Link to a PDF of your resume/CV from the About widget.
