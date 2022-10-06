@@ -57,7 +57,7 @@ enableGitInfo = false
   
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Charles Perkins Centre", url = "https://www.sydney.edu.au/charles-perkins-centre/" } , 
+  organizations = [ { name = "Charles Perkins Centre", url = "https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/raaj.biswas.html" } , 
                     {name="University of Sydney", url="https://www.sydney.edu.au/"}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
