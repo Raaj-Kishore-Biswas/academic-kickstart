@@ -260,7 +260,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:RaajKishore.Biswas@student.unsw.edu.au"  # For a direct email link, use "mailto:RaajKishore.Biswas@student.unsw.edu.au".
+    link = "mailto:raaj.biswas@sydney.edu.au"  # For a direct email link, use "mailto:raaj.biswas@sydney.edu.au".
 
   [[params.social]]
     icon = "twitter"
