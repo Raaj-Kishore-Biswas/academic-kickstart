@@ -8,6 +8,16 @@
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DEYJ67EEVP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DEYJ67EEVP');
+</script>
+
 # Title of your site
 title = "Raaj Kishore Biswas"
 
