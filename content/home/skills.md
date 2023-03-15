@@ -47,7 +47,7 @@ weight = 7
 [[feature]]
   icon = "user-injured"
   icon_pack = "fas"
-  name = "prospective cohort study (Intermediate)"
+  name = "Prospective cohort study (Intermediate)"
   description = ""
 
 
@@ -61,7 +61,7 @@ weight = 7
 [[feature]]
   icon = "sitemap"
   icon_pack = "fas"
-  name = "Clinical trials methods (Intermediate)"
+  name = "Clinical trial methods (Intermediate)"
   description = ""
 
 +++
