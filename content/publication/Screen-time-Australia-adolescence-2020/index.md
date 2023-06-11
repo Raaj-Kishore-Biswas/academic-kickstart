@@ -43,7 +43,7 @@ tags = ["Child", "Australia", "Sceen time", "Internet use", "Game play", "Public
 
 
 # Digital Object Identifier (DOI)
-doi = "10.4225/87/LCVEU3"
+doi = "10.1038/s41598-020-78916-9"
 
 # Links (optional).
 url_source = "https://www.nature.com/articles/s41598-020-78916-9"
