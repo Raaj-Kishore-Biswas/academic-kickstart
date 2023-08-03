@@ -49,6 +49,6 @@ summary = "The analysis in JAMA paper assessed whether being physically active i
 +++
 The full report is available in <a href="https://theconversation.com/good-news-for-weekend-warriors-people-who-do-much-of-their-exercise-on-a-couple-of-days-still-get-heart-benefits-210053"> The Conversation</a>.
 
-<a href="https://jamanetwork.com/journals/jama/fullarticle/2807286"> Published paper in JAMA </a> based on of the large UK Biobank database compared two patterns of weekly activity and how they reduced cardiovascular risk for heart attacks, heart failure, irregular heart beat and stroke.
+<a href="https://jamanetwork.com/journals/jama/fullarticle/2807286"> Published paper in JAMA </a> based on the large UK Biobank database compared two patterns of weekly activity and how they reduced cardiovascular risk for heart attacks, heart failure, irregular heart beat and stroke.
 
 
