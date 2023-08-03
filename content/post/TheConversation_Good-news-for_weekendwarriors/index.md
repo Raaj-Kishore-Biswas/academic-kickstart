@@ -24,7 +24,7 @@ summary = "The analysis in JAMA paper assessed whether being physically active i
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Fujifilm**](https://unsplash.com/photos/RYvOI54rmPw)"
+  caption = "Image credit: [**Zac Ong**](https://unsplash.com/photos/RYvOI54rmPw)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
