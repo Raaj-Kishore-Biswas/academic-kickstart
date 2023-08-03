@@ -24,7 +24,7 @@ summary = "The latest findings from the Global Burden of Disease Study (GBD) wer
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Raaj Kishore Biswas**](https://raajbiswas.com/)"
+  caption = "Image credit: [**Scott Graham**]([https://raajbiswas.com/](https://unsplash.com/photos/5fNmWej4tAA))"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
