@@ -62,7 +62,7 @@ enableGitInfo = false
                     {name="University of Sydney", url="https://www.sydney.edu.au/"}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Raaj-Kishore-Biswas.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Raaj-Kishore-Biswas2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "Raaj.Biswas@sydney.edu.au; raaj.biswas@gmail.com"
