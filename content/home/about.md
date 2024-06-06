@@ -12,9 +12,9 @@ weight = 5
   interests = [
     "Biostatistics",
     "Data Analytics",
-    "Health Care System",
-    "Health Policy",
-    "Machine Learning",
+    "Lifestyle modifications",
+    "Non-communicable diseases",
+    "Survival analysis",
     "Cohort studies"
   ]
 
@@ -42,4 +42,4 @@ Raaj Kishore Biswas is a biostatistician and an _R_ enthusiast. He works as a Bi
 
 His PhD at UNSW Sydney (2022) assessed driver behaviour and risk associated with everyday driving in Australia using the <a href="http://www.ands.unsw.edu.au/"> Australian Naturalistic Driving Study (ANDS)</a>. He is also a sessional lecturer at Swinburne, where he supervises postgraduate students.
 
-He regularly collaborates with colleagues across globe to work on biostatistics and public health projects, particularly focusing on the health care system and service accessibilities in developing countries. Environmental statistics, behavioral analysis and spatial techniques are also part of his areas of interest.
+Raaj's current area of interest focuses on lifestyle behavioral factors and the early prevention of non-communicable diseases. He regularly collaborates with colleagues across globe to work on biostatistics and public health projects, particularly focusing on the health care system and service accessibilities in developing countries. 
