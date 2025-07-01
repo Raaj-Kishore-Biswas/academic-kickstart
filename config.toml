@@ -355,7 +355,8 @@ enableGitInfo = false
 # Configuration of Algolia search engine. 
 # Paste the values from your Algolia dashboard. 
  [params.search.algolia] 
- app_id = "" api_key = "" 
+ app_id = "" 
+ api_key = "" 
  index_name = "" 
  show_logo = false
 
